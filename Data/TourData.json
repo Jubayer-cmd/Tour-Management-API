@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Dhaka",
+    "description": "Dhaka is the capital city of Bangladesh",
+    "price": 2500,
+    "image": "pic.jpg",
+    "view": 0,
+    "status": "available"
+  },
+  {
+    "name": "Pabna",
+    "description": "pabna is the beautiful city of Bangladesh",
+    "price": 25000,
+    "image": "pic.jpg",
+    "view": 0,
+    "status": "not-available"
+  },
+  {
+    "name": "Tongi",
+    "description": "Tongi is the capital city of Bangladesh",
+    "price": 4500,
+    "image": "pic.jpg",
+    "view": 0,
+    "status": "available"
+  },
+  {
+    "name": "CTG",
+    "description": "CTG is the capital city of Bangladesh",
+    "price": 7500,
+    "image": "pic.jpg",
+    "view": 0,
+    "status": "not-available"
+  },
+  {
+    "name": "Rangpur",
+    "description": "Rangpur is the capital city of Bangladesh",
+    "price": 200,
+    "image": "pic.jpg",
+    "view": 0,
+    "status": "available"
+  },
+  {
+    "name": "Noakhali",
+    "description": "Noakhali Division Chai!!!",
+    "price": 5000,
+    "image": "pic.jpg",
+    "view": 0,
+    "status": "available"
+  }
+]
